@@ -1,0 +1,16 @@
+{
+  "name": "biru-backend",
+  "version": "1.0.0",
+  "description": "a backend project in javascript by birendra chandravanshi",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Birendra Chandravanshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
